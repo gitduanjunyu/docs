@@ -23,7 +23,7 @@ msgid ""
 "referencing>`."
 msgstr ""
 "一个高效的数据模型能够很好的满足你应用程序的需求。设计一个文档数据结构最关键的考量就是"
-"决定是否使用 :ref:`embed <data-modeling-embedding>` "
+"决定是否使用 :ref:`内嵌式 <data-modeling-embedding>` "
 "还是 :ref:`引用 <data-modeling-referencing>`。"
 
 #: ../source/core/data-model-design.txt:23
